@@ -1,0 +1,10 @@
+numpy~=1.20.1
+joblib~=1.0.1
+Flask~=1.1.2
+sklearn~=0.0
+scikit-learn~=0.24.1
+pandas~=1.2.3
+spacy~=3.0.5
+nltk~=3.5
+tqdm~=4.59.0
+lightgbm~=3.1.1
