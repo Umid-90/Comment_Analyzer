@@ -46,7 +46,7 @@ Windows:
 
 .\env\Scripts\activate
 
-Подробная информация расположена по запуску виртуальной среды [здесь(https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+Подробная информация расположена по запуску виртуальной среды [здесь(https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)]
 
 
 1.   Установить версии библиотек проекта с помощью кода в командной строке :
