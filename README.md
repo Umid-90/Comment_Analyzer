@@ -2,7 +2,7 @@
  Text toxcity analyzer Web Service
 Веб сервис с использованием Flask и МЛ модели LightGBM
 
-Демо проект по анализу текста(комментариев), оценивающий токсичность текста в пределах от 0 до 1
+Демо проект по анализу текста(комментариев на английском языке), оценивающий токсичность текста в пределах от 0 до 1
 
 ### Структура проекта: 
 
@@ -23,36 +23,36 @@
 ##### Установка виртуальной среды:
 
 macOS and Linux:
-python3 -m pip install --user virtualenv
+*python3 -m pip install --user virtualenv*
 
 Windows:
-py -m pip install --user virtualenv
+*py -m pip install --user virtualenv*
 
 ##### Создание виртаульной среды:
 
 macOS/Linux:
-python3 -m venv env
+*python3 -m venv env*
 
 Windows:
-py -m venv env
+*py -m venv env*
 
 ##### Активация виртуальной среды:
 
 macOS/Linux:
 
-source env/bin/activate
+*source env/bin/activate*
 
 Windows:
 
-.\env\Scripts\activate
+*.\env\Scripts\activate*
 
-Подробная информация расположена по запуску виртуальной среды [здесь(https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)]
+Подробная информация расположена по запуску виртуальной среды [здесь](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
 
 1.   Установить версии библиотек проекта с помощью кода в командной строке :
 
 Mac/Linux/Windows
-pip install -r requirements.txt
+*pip install -r requirements.txt*
 
 2. Запустите файл app.py в командной строке:
 
